@@ -2,7 +2,7 @@ const express = require('express');
 const QRCode = require('qrcode');
 const router = express.Router();
 
-const CHATBOT_URL = 'https://hotelbot.example.com'; // Change to your real chatbot URL
+const CHATBOT_URL = 'https://hotel-chatbot-1-clhf.onrender.com';
 
 router.get('/', async (req, res) => {
   try {
