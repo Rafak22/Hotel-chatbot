@@ -1,0 +1,46 @@
+{
+  "name": "hotel-virtual-assistant",
+  "version": "1.0.0",
+  "description": "Smart multilingual hotel room virtual assistant accessible via QR code",
+  "main": "server/index.js",
+  "scripts": {
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "nodemon server/index.js",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build",
+    "install-all": "npm install && cd client && npm install",
+    "start": "node server/index.js"
+  },
+  "keywords": [
+    "hotel",
+    "chatbot",
+    "virtual-assistant",
+    "qr-code",
+    "multilingual"
+  ],
+  "author": "Hotel Virtual Assistant Team",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.10.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^2.2.0",
+    "cors": "^2.8.5",
+    "dialogflow": "^1.2.0",
+    "dotenv": "^16.3.1",
+    "express": "^4.21.2",
+    "express-rate-limit": "^6.10.0",
+    "helmet": "^7.0.0",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.29.4",
+    "multer": "^1.4.5-lts.1",
+    "openai": "^4.20.1",
+    "qrcode": "^1.5.4",
+    "socket.io": "^4.7.2",
+    "sqlite3": "^5.1.6",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.2",
+    "nodemon": "^3.0.1"
+  }
+}

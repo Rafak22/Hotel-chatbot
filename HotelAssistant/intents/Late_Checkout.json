@@ -1,0 +1,86 @@
+{
+  "id": "674985b1-098a-470e-989a-976aad428963",
+  "name": "Late_Checkout",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "request.latecheckout",
+      "affectedContexts": [
+        {
+          "name": "awaiting_checkout_details",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "5cccfc30-b72b-436f-8ad3-869ce436e51e",
+          "name": "room_number",
+          "required": true,
+          "dataType": "@sys.number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "\"Can I have your room number?\""
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "4d6b426a-aff7-4546-b3e4-4af2fc7315fb",
+          "name": "extra_time",
+          "required": false,
+          "dataType": "@sys.time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e5e59de0-2c6d-4873-8d6b-a72ddc7d29a1",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks! I\u0027ve noted that room $room_number would like to check out late. We\u0027ll confirm availability and let you know soon."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

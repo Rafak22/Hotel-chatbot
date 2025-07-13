@@ -1,0 +1,41 @@
+[
+  {
+    "id": "9a531a91-ef14-43f8-9e60-70f9451320ac",
+    "data": [
+      {
+        "text": "Send towels to my room please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1b4b2a59-d3dc-4003-b188-4e371d191a90",
+    "data": [
+      {
+        "text": "I need extra towels",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b8efe4b6-7ef9-49d3-a68b-4223e5f9bc87",
+    "data": [
+      {
+        "text": "Can I get more towels?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

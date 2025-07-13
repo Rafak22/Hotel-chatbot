@@ -1,0 +1,86 @@
+{
+  "id": "58896a11-b5e6-4dbb-9d46-f9304f95c592",
+  "name": "Housekeeping_Request",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "request.housekeeping",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "61f9982f-34cc-4f1f-9f6c-bec3b3287d95",
+          "name": "room_number",
+          "required": true,
+          "dataType": "@sys.number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Can I have your room number?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "3b77a2ce-1e83-48e3-a6c7-0069d373b989",
+          "name": "service_item",
+          "required": true,
+          "dataType": "@sys.any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What do you need from housekeeping?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "6921ffb7-c0b4-4b34-9284-aad6f9081fd5",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "🧹 Sure! I\u0027ve passed your request for $service_item to housekeeping.\nThey\u0027ll deliver it to room $room_number as soon as possible. Let me know if you need anything else!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

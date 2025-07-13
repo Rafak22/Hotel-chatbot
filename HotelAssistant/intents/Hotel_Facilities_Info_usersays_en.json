@@ -1,0 +1,80 @@
+[
+  {
+    "id": "3a8e19d5-faba-4309-a830-a9fb34694c25",
+    "data": [
+      {
+        "text": "\"Do you have a fitness center?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be8a6c33-76b7-48d8-917d-5912ed85d3fa",
+    "data": [
+      {
+        "text": "\"Are there any pools?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a67edeea-0049-4f2b-aae4-0e86fe2b8470",
+    "data": [
+      {
+        "text": "\"What can I do at the hotel?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d22581b3-2266-43d7-b002-bfe4950c9ce9",
+    "data": [
+      {
+        "text": "\"Tell me about the spa\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38d1c00e-b719-4bf4-bc51-29bbf900b1b7",
+    "data": [
+      {
+        "text": "\"Is there a gym?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66bff703-756c-4bda-ac93-fd404558333f",
+    "data": [
+      {
+        "text": "\"What facilities does the hotel have?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

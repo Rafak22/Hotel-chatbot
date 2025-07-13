@@ -1,0 +1,90 @@
+[
+  {
+    "id": "3389dc16-50c5-4580-bd0a-1d8fdad29f4e",
+    "data": [
+      {
+        "text": "I\u0027ll leave at 3 PM instead of noon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d68e0761-68f6-4663-b14c-8f4a46929193",
+    "data": [
+      {
+        "text": "Room ",
+        "userDefined": false
+      },
+      {
+        "text": "502",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " needs late checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd4c3869-608e-4b64-a8bd-c988ea37608c",
+    "data": [
+      {
+        "text": "Can I stay longer in room 207?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "be4fd24f-5ce9-4766-beb6-462eba7f678d",
+    "data": [
+      {
+        "text": "Can I extend my stay?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "da1a0706-6e23-4c2d-bc80-d8c6015b32bd",
+    "data": [
+      {
+        "text": "Can I check out late?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9431294-eaec-407d-9c01-061a6a775eea",
+    "data": [
+      {
+        "text": "I need a late checkout",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

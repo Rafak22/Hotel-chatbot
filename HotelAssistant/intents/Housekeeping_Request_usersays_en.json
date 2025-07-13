@@ -1,0 +1,90 @@
+[
+  {
+    "id": "3a201608-17e6-4739-9e06-60dbc3079591",
+    "data": [
+      {
+        "text": "\"I want a blanket delivered\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d4216ea-7f21-48ba-bbd6-435d1fe38d2c",
+    "data": [
+      {
+        "text": "\"Send housekeeping to 402\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e4149c72-2e76-4fda-800f-7106fcc4a182",
+    "data": [
+      {
+        "text": "\"Can I get soap and shampoo?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f74f467-f04c-49f8-8313-f6fd499555ef",
+    "data": [
+      {
+        "text": "\"Room ",
+        "userDefined": false
+      },
+      {
+        "text": "210",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " needs fresh bedsheets\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f63dae7c-a49b-46ae-be87-9c634369f7dd",
+    "data": [
+      {
+        "text": "\"I need more towels\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4e13b84c-145d-4f4b-a7cf-216e7780e429",
+    "data": [
+      {
+        "text": "Can someone clean my room?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

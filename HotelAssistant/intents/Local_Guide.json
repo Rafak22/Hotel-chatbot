@@ -1,0 +1,49 @@
+{
+  "id": "f20c8f68-35c1-49de-ac04-4f23a1ab47b6",
+  "name": "Local_Guide",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "guide.local",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "e599c764-e1af-4eba-a4af-42589fd6612c",
+          "name": "interest",
+          "required": false,
+          "dataType": "@sys.any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Here are a few suggestions near the hotel:\n\n🏰 Historical Castle (10 min walk)\n\n🛍️ City Mall (5 min by taxi)\n\n🌅 Beachwalk (15 min)\nLet me know what kind of places you\u0027d love more!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

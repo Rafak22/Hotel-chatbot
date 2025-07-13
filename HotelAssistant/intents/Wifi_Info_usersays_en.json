@@ -1,0 +1,80 @@
+[
+  {
+    "id": "e2425b1a-0d82-4911-ab98-7b767b02b648",
+    "data": [
+      {
+        "text": "Is there free Wi-Fi?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "53dc1412-6614-4546-82d4-a7751ac7185e",
+    "data": [
+      {
+        "text": "Wi-Fi please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f349f2b-8eaa-423f-a68c-395e7305b3e3",
+    "data": [
+      {
+        "text": "Can you give me the Wi-Fi details?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9e850c98-62dc-499f-9f74-d4a1865c944e",
+    "data": [
+      {
+        "text": "I need the internet info",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "460b779c-5b2c-424c-86f8-bf72ef4959cd",
+    "data": [
+      {
+        "text": "What\u0027s the Wi-Fi password?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7bf5a79c-4e54-460e-b8e7-cc2ba9c48315",
+    "data": [
+      {
+        "text": "How do I connect to the internet?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

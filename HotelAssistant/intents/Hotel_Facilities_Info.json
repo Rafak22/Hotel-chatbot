@@ -1,0 +1,35 @@
+{
+  "id": "836e87c3-a707-4271-9206-d3160b31c101",
+  "name": "Hotel_Facilities_Info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "info.facilities",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "🏨 Our hotel offers the following facilities:\n\n🏋️ Gym – Open 6 AM to 10 PM  \n🏊‍♀️ Swimming Pool – Open 7 AM to 9 PM  \n🧖 Spa \u0026 Wellness Center – Book by calling 0  \n☕ Lounge \u0026 Coffee Bar – 24/7  \n🍽️ On-site Restaurant – Breakfast, Lunch, Dinner  \n\nLet me know if you want info on any specific service!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

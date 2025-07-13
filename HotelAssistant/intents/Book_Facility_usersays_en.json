@@ -1,0 +1,121 @@
+[
+  {
+    "id": "0b51fa52-64b4-48a4-939d-5ea5699e73f3",
+    "data": [
+      {
+        "text": "I\u0027d like to reserve the ",
+        "userDefined": false
+      },
+      {
+        "text": "pool",
+        "meta": "@facility",
+        "alias": "facility",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "at 7pm",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ebe8c6bc-bb3e-41d7-bd70-fc1bd7663896",
+    "data": [
+      {
+        "text": "Can I book a ",
+        "userDefined": false
+      },
+      {
+        "text": "massage",
+        "meta": "@facility",
+        "alias": "facility",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d91a304-788a-45e8-bfc4-f07bd474453c",
+    "data": [
+      {
+        "text": "Reserve the ",
+        "userDefined": false
+      },
+      {
+        "text": "gym",
+        "meta": "@facility",
+        "alias": "facility",
+        "userDefined": false
+      },
+      {
+        "text": " for ",
+        "userDefined": false
+      },
+      {
+        "text": "8am",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "80d71bda-a143-4011-a8ee-9332524ecbf6",
+    "data": [
+      {
+        "text": "Book a table at the ",
+        "userDefined": false
+      },
+      {
+        "text": "restaurant",
+        "meta": "@facility",
+        "alias": "facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c0caf5be-158c-4d03-8d0b-4db16be03d47",
+    "data": [
+      {
+        "text": "I want to book the ",
+        "userDefined": false
+      },
+      {
+        "text": "spa",
+        "meta": "@facility",
+        "alias": "facility",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

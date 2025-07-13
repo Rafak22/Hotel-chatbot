@@ -1,0 +1,35 @@
+{
+  "id": "ec1af2cd-b6a9-4ddd-8193-c4ff8f68c13f",
+  "name": "Wifi_Info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "info.wifi",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! Here\u0027s the Wi-Fi info:\n📶 Network: HotelGuest\n🔑 Password: Welcome123\nLet me know if you need help connecting."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

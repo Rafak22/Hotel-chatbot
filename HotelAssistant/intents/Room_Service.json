@@ -1,0 +1,87 @@
+{
+  "id": "f1a6c85a-8335-4cea-97fa-3b94acb9aada",
+  "name": "Room_Service",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "order.food",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "5c34bdef-406f-41dd-a0fe-5dd71eb9ecf9",
+          "name": "food_item",
+          "required": true,
+          "dataType": "@sys.any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "\"What would you like to order?\""
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "d064e5a1-4db2-49ed-83ab-362951474b9e",
+          "name": "room_number",
+          "required": true,
+          "dataType": "@sys.number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "\"Which room should we deliver to?\""
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "fadd3e69-0de2-4aea-ac2f-9b25acf4fac4",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Great! Your order for $food_item will be sent to room $room_number shortly. If you need anything else, just let me know",
+            "Here’s our room service menu: 🍽️\n\n🍕 Main Dishes\n– Margherita Pizza – 45 SAR\n– Chicken Burger – 40 SAR\n– Grilled Salmon – 60 SAR\n\n🥗 Sides\n– French Fries – 15 SAR\n– Caesar Salad – 20 SAR\n\n🥤 Drinks\n– Orange Juice – 10 SAR\n– Bottled Water – 5 SAR\n– Coffee – 12 SAR\n\n🧁 Desserts\n– Chocolate Cake – 18 SAR\n– Fruit Platter – 20 SAR\n\nLet me know your room number and what you\u0027d like to order!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

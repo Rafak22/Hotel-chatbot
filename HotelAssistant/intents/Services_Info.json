@@ -1,0 +1,35 @@
+{
+  "id": "a31709ba-d2cb-4c6f-af29-88605db8cfe8",
+  "name": "Services_Info",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Response:\nI can help you with the following:\n🛎️ Room Service (food orders)\n📶 Wi-Fi Information\n🧹 Housekeeping Requests\n🕒 Late Checkout\n🗺️ Local Attractions \u0026 Recommendations\n🍽️ Restaurant Hours\n🏨 Hotel Facilities\n\nJust type what you need, like “I want food” or “Give me Wi-Fi info"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

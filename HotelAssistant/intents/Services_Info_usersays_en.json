@@ -1,0 +1,67 @@
+[
+  {
+    "id": "a9479a59-1444-49c8-95e7-b59d31bfada2",
+    "data": [
+      {
+        "text": "I want to see the options",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d17cfee6-34db-47c5-b645-2313f3a1299e",
+    "data": [
+      {
+        "text": "What does this chatbot do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d0b91b8-0354-438a-ae83-3ca8c19164af",
+    "data": [
+      {
+        "text": "How can you help me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6d91073-a196-4595-8184-587a0f70078d",
+    "data": [
+      {
+        "text": "What services are available?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8e79f174-07a7-4e62-8a7f-8c221bb463b3",
+    "data": [
+      {
+        "text": "What can you do?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "0fa68fd6-6872-43b1-8e1f-ca4f1dd2798b",
+    "data": [
+      {
+        "text": "I want fries and juice to my room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea117367-8122-40c6-9fc7-312614e8b347",
+    "data": [
+      {
+        "text": "Room ",
+        "userDefined": false
+      },
+      {
+        "text": "210",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " needs pasta",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "82e6fc0e-927e-4053-87d3-f4c423ddbfee",
+    "data": [
+      {
+        "text": "Send a burger to room 304",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e3ff6694-47cc-4c83-9105-015a6d1d5ba9",
+    "data": [
+      {
+        "text": "I\u0027m hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78dbc306-cc93-4f1a-81ef-be9de5e161d6",
+    "data": [
+      {
+        "text": "I want to order food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7a3e5b0c-4d26-4c2e-ac97-d4cc01de101f",
+    "data": [
+      {
+        "text": "Can I get something to eat?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

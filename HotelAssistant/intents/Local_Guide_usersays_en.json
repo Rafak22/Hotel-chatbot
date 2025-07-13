@@ -1,0 +1,80 @@
+[
+  {
+    "id": "5e5a313b-3ba1-4923-95fc-994ab27ec9a9",
+    "data": [
+      {
+        "text": "\"I like nature and walking spots\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5b60e82b-3122-4b38-a189-a093fbbfb897",
+    "data": [
+      {
+        "text": "\"Where can I go in the evening?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9fd43561-8a2e-4761-ab1d-19a5bbcaa52f",
+    "data": [
+      {
+        "text": "\"Are there shopping malls nearby?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "15f32f6b-2097-439d-8885-beb94acc956e",
+    "data": [
+      {
+        "text": "\"Suggest me some places to visit\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1d95d1dd-fe0d-4f9f-a00c-2228db21a9e1",
+    "data": [
+      {
+        "text": "\"Any tourist attractions nearby?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cbdc4671-d176-4005-a992-54be18e1b363",
+    "data": [
+      {
+        "text": "\"What can I do around here?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

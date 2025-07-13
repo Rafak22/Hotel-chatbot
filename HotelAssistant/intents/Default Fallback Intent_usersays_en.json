@@ -1,0 +1,28 @@
+[
+  {
+    "id": "cc1f0162-95bc-43c0-bcc3-8c43e3ec8e22",
+    "data": [
+      {
+        "text": "Oops! That wasn\u0027t clear to me.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a797d78c-7de3-4279-8d5c-dfbcaef4a1af",
+    "data": [
+      {
+        "text": "Hmm, I\u0027m not sure what you meant. Want to try rephrasing? Or say ‘menu\u0027 to see what I can help with!",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
